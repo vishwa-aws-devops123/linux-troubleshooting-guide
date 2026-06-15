@@ -14,3 +14,9 @@ This repository contains common Linux production support and troubleshooting sce
 ## Purpose
 
 This repository demonstrates troubleshooting approaches commonly used in Linux Support and Production Support roles.
+
+## Additional Resources
+
+- interview-questions.md
+
+This file contains troubleshooting interview questions commonly asked in Linux Support and Production Support interviews.
